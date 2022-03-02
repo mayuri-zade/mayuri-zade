@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mayuri-zade
 - 👀 I’m interested in learning technologies
 - 🌱 I’m currently learning frontend web development
-- 📫 How to reach me [@Instagram](https://instagram.com/mayurizade1234)
+- 📫 How to reach me [@Instagram](https://instagram.com/mayurizade123)
 
 <!---
 mayuri-zade/mayuri-zade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
